@@ -1,12 +1,6 @@
-# MIMO
 
-Joint Extraction of Fact and Condition Tuples from Sceintific Text
+# Joint Extraction of Fact and Condition Tuples from Sceintific Text
 
-
-
-<h1 align="center">
-<p>Joint Extraction of Fact and Condition Tuples from Sceintific Text
-</h1>
 
 ## Introduction
 This repository contains source code for the EMNLP 2019 paper " "Multi-Input Multi-Output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text" ([Paper](http://www.meng-jiang.com/pubs/mimo-emnlp19/mimo-emnlp19-paper.pdf)).
@@ -49,7 +43,7 @@ python client.py
 
 The output of the demo is shown below.
 
-```json
+```bash
 {
 	'statements': {
 		'stmt 1': {
