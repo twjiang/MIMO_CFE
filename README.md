@@ -104,10 +104,6 @@ python train.py --cuda --config 111111000 --model_name MIMO_BERT_LSTM
 ```
 
 
-
-## Online demo
-[biokgs](http://biokgs.com/),built by Tianwen Jiang, is the official demo of this repo.
-
 ## Reference
 ```
  @article{jiangmulti,
