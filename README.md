@@ -106,9 +106,14 @@ python train.py --cuda --config 111111000 --model_name MIMO_BERT_LSTM
 
 ## Reference
 ```
- @article{jiangmulti,
-  title={Multi-Input Multi-Output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text},
-  author={Jiang, Tianwen and Zhao, Tong and Qin, Bing and Liu, Ting and Chawla, Nitesh V and Jiang, Meng}
+@inproceedings{jiang-mimo,
+    title = "Multi-Input Multi-Output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text",
+    author = "Jiang, Tianwen and Zhao, Tong and Qin, Bing and Liu, Ting and Chawla, Nitesh V and Jiang, Meng",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
 }
 ```
 
