@@ -9,7 +9,7 @@ This repository contains source code for the EMNLP 2019 paper " "Multi-Input Mul
 
 ### 1.Clone the Repository
 ```bash
-git clone https://github.com/twjiang/Run_SciKG.git
+git clone https://github.com/twjiang/MIMO_CFE.git
 ```
 ### 2.Download External Resources
 
